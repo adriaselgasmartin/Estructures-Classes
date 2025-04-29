@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191ac622-1af6-4a60-b499-b8296833cca2" name="Changes" comment="hola que tal">
+    <list default="true" id="191ac622-1af6-4a60-b499-b8296833cca2" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Dibujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/TestDibujo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_03_modulos/ModCliente.py" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_03_modulos/ModCliente.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_03_modulos/Programa.py" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_03_modulos/Programa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +26,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="adriaselgasmartin &lt;adria.selgas@estudiantat.upc.edu&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "adriaselgasmartin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/adriaselgasmartin/Estructures-Classes.git",
+    "accountId": "73af5de4-ead6-4250-b23a-1adb8f80162c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -42,7 +66,7 @@
     "Python.provesCLASES.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -83,11 +107,29 @@
       <option name="project" value="LOCAL" />
       <updated>1745934081640</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sad">
+      <option name="closed" value="true" />
+      <created>1745934595644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745934595644</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1745934665185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745934665185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hola que tal" />
-    <option name="LAST_COMMIT_MESSAGE" value="hola que tal" />
+    <MESSAGE value="sad" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

@@ -2,9 +2,12 @@ from pip._internal import cli
 
 
 class Cliente():
-    def __init__(self):
-        self.codigo = 0
-        self.nombre = ""
+    def __init__(self,cod,nom):
+        self.codigo = cod
+        self.nombre = nom
+
+
+
 def Pedir(cli):
     cli.codigo = int(input("Dime el codigo: "))
     cli.nombre = input("Dime el nombre: ")
