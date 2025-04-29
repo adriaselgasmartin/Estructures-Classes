@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191ac622-1af6-4a60-b499-b8296833cca2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/_08_03_modulos/ModCliente.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/_08_03_modulos/Programa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/proves2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/provesCLASES.py" afterDir="false" />
+    <list default="true" id="191ac622-1af6-4a60-b499-b8296833cca2" name="Changes" comment="hola que tal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ModCliente.executor": "Run",
     "Python.Programa.executor": "Run",
     "Python.proves2.executor": "Run",
     "Python.provesCLASES.executor": "Run",
@@ -74,6 +67,27 @@
       <option name="presentableId" value="Default" />
       <updated>1745922731834</updated>
     </task>
+    <task id="LOCAL-00001" summary="hola que tal">
+      <option name="closed" value="true" />
+      <created>1745934017886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745934017886</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hola que tal">
+      <option name="closed" value="true" />
+      <created>1745934081640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745934081640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hola que tal" />
+    <option name="LAST_COMMIT_MESSAGE" value="hola que tal" />
   </component>
 </project>
