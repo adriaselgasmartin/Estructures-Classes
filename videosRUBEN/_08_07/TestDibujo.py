@@ -1,5 +1,5 @@
-class punto:
-    def __init__(self,x,y,color):
-        self.x=x
-        self.y=y
-        self.color=color
+import Dibujo
+
+D = Dibujo.CreateFromFile ("Puntos.txt")
+Dibujo.Plot(D)
+#Queremos todo el conjunto de puntos de Puntos.txt visualizado en un plot
