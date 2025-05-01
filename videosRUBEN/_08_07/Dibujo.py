@@ -4,21 +4,28 @@ import Punto
 #Una estructura de un vector de puntos
 class dibujo:
     def __init__(self):
-        self.puntos =  []
+        self.puntos =  []       #vector de puntos
 #Cada elemento es un punto, tal como está definido en Punto.py
 
+"""
+D = Dibujo
+P = punto a añadir
+"""
 def AddPoint(D, P):
+    for k in D.puntos:
+        if k.x == P.x and k.y == P.y:
+            return False
     D.puntos.append(P)
     return True
 #Inserta un punto dentro del dibujo
 
-
-
-
-
 def CreateFromFile(filename):
-    F = open(filename, "r")
+    #Crear un dibujo a partir del fichero Puntos.txt
+    try:
+        F = open(filename, "r")
     #Leer linea por linea el fichero e ir almacenando los puntos
+    except:
+       return None
     linea = F.readline()
     D = dibujo()
     while linea != "":
@@ -32,7 +39,6 @@ def CreateFromFile(filename):
             AddPoint(D,P)
     F.close()
     return D
-
 
 
 def Plot(D):

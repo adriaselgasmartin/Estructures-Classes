@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191ac622-1af6-4a60-b499-b8296833cca2" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Punto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="191ac622-1af6-4a60-b499-b8296833cca2" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/prova/Strct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/prova/filesprova.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/prova/hola.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/prova/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_07/Dibujo.py" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Dibujo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_07/TestDibujo.py" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/TestDibujo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +40,12 @@
     &quot;assignee&quot;: &quot;adriaselgasmartin&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/adriaselgasmartin/Estructures-Classes.git",
-    "accountId": "027e3778-472a-429b-bbc6-da86dbd7b3b2"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adriaselgasmartin/Estructures-Classes.git&quot;,
+    &quot;accountId&quot;: &quot;027e3778-472a-429b-bbc6-da86dbd7b3b2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -60,9 +60,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Dibujo.executor": "Run",
+    "Python.Dibujo.executor": "Debug",
     "Python.ModCliente.executor": "Run",
     "Python.Programa.executor": "Run",
+    "Python.TestDibujo.executor": "Run",
+    "Python.filesprova.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.proves2.executor": "Run",
     "Python.provesCLASES.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -126,13 +129,22 @@
       <option name="project" value="LOCAL" />
       <updated>1745934665185</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1745946646776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745946646776</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hola que tal" />
     <MESSAGE value="sad" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
