@@ -30,13 +30,17 @@ def CreateFromFile(filename):
     D = dibujo()
     while linea != "":
         partes = linea.strip().split()
-        linea = F.readline()
         if len(partes) == 3:
-            x = float(partes[0])
-            y = float(partes[1])
-            color = str(partes[2])
-            P = Punto.punto(x,y,color)
-            AddPoint(D,P)
+            try:
+                x = float(partes[0])
+                y = float(partes[1])
+                color = str(partes[2])
+                P = Punto.punto(x,y,color)
+                AddPoint(D,P)
+            except:
+                print("Error el la linea: ",linea)
+                pass
+        linea = F.readline()
     F.close()
     return D
 

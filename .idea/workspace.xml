@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="191ac622-1af6-4a60-b499-b8296833cca2" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/prova/Strct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/prova/filesprova.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/prova/hola.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/prova/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/AircraftCompanyFusion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/Ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/Ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/Ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/exempleAprenentatgePROVA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/EjemploAlumnos/Alumnos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videosRUBEN/EjemploAlumnos/Alumnos.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_07/Dibujo.py" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Dibujo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.txt" afterDir="false" />
@@ -60,14 +63,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Dibujo.executor": "Debug",
+    "Python.Alumnos.executor": "Run",
+    "Python.Dibujo.executor": "Run",
+    "Python.Ex3.executor": "Run",
+    "Python.Ex4.executor": "Run",
+    "Python.Ex5.executor": "Run",
     "Python.ModCliente.executor": "Run",
     "Python.Programa.executor": "Run",
     "Python.TestDibujo.executor": "Run",
+    "Python.exempleAprenentatgePROVA.executor": "Run",
     "Python.filesprova.executor": "Run",
     "Python.main.executor": "Run",
     "Python.proves2.executor": "Run",
     "Python.provesCLASES.executor": "Run",
+    "Python.rstrip.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -137,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745946646776</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="second commit">
+      <option name="closed" value="true" />
+      <created>1746107783810</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746107783810</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

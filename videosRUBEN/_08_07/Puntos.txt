@@ -1,5 +1,5 @@
 10 20 red
-4 18 orange
+puta 18 orange
 7 22 green
 5 10 brown
 5 5 black
