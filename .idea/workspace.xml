@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="191ac622-1af6-4a60-b499-b8296833cca2" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/AircraftCompanyFusion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/Ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/Ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/Ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/exempleAprenentatgePROVA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/EjemploAlumnos/Alumnos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/videosRUBEN/EjemploAlumnos/Alumnos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicisCLASSES/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientepruebas/Cliente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clientepruebas/Programa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practicaPUNTOS/Dibujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practicaPUNTOS/TestDibujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practicaPUNTOS/listapuntos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practicaPUNTOS/punto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExercicisCLASSES/Ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicisCLASSES/Ex4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_07/Dibujo.py" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Dibujo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/videosRUBEN/_08_07/Puntos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/adriaselgasmartin/Estructures-Classes.git&quot;,
-    &quot;accountId&quot;: &quot;027e3778-472a-429b-bbc6-da86dbd7b3b2&quot;
+    &quot;accountId&quot;: &quot;73af5de4-ead6-4250-b23a-1adb8f80162c&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -60,30 +63,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Alumnos.executor": "Run",
-    "Python.Dibujo.executor": "Run",
-    "Python.Ex3.executor": "Run",
-    "Python.Ex4.executor": "Run",
-    "Python.Ex5.executor": "Run",
-    "Python.ModCliente.executor": "Run",
-    "Python.Programa.executor": "Run",
-    "Python.TestDibujo.executor": "Run",
-    "Python.exempleAprenentatgePROVA.executor": "Run",
-    "Python.filesprova.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.proves2.executor": "Run",
-    "Python.provesCLASES.executor": "Run",
-    "Python.rstrip.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Dibujo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModCliente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestDibujo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filesprova.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.proves2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.provesCLASES.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adria\PycharmProjects\PythonProject3\videosRUBEN\_08_03_modulos" />
@@ -93,7 +93,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -146,15 +146,7 @@
       <option name="project" value="LOCAL" />
       <updated>1745946646776</updated>
     </task>
-    <task id="LOCAL-00006" summary="second commit">
-      <option name="closed" value="true" />
-      <created>1746107783810</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1746107783810</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

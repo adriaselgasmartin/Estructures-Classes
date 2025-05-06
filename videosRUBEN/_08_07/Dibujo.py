@@ -1,11 +1,11 @@
-import matplotlib.pyplot as plt
+import matplotlib.pyplot  as plt
 import Punto
 
 #Una estructura de un vector de puntos
 class dibujo:
     def __init__(self):
         self.puntos =  []       #vector de puntos
-#Cada elemento es un punto, tal como está definido en Punto.py
+#Cada elemento es un punto, tal como está definido en punto.py
 
 """
 D = Dibujo

@@ -38,3 +38,19 @@ try:
     descripcion = input("Pequeña descripción del evento: ")
     cita = Appointment(fecha, hora, lugar, descripcion)
     agenda.append(cita)
+
+    for cita in agenda:
+        print("Fecha de la cita: {0},{1},{2},{3}".format(cita.date.year, cita.date.month,
+                                              cita.date.day, cita.date.weekday))
+
+        print("Hora del evento: ",cita.time)
+        print("Lugar: ",cita.place)
+        print('Descripcion: ', cita.description)
+    nuevaHora = eval(input(""))
+
+
+
+
+
+except ValueError:
+    print("Error: Por favor, introduce los datos en el formato correcto")
